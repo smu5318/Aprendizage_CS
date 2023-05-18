@@ -1,0 +1,5 @@
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\obj\Debug\net7.0\C#.csproj.AssemblyReference.cache
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\obj\Debug\net7.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\obj\Debug\net7.0\C#.AssemblyInfoInputs.cache
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\obj\Debug\net7.0\C#.AssemblyInfo.cs
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\obj\Debug\net7.0\C#.csproj.CoreCompileInputs.cache

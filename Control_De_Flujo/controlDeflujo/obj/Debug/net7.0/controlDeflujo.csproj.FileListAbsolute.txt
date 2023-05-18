@@ -1,0 +1,15 @@
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\bin\Debug\net7.0\controlDeflujo.exe
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\bin\Debug\net7.0\controlDeflujo.deps.json
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\bin\Debug\net7.0\controlDeflujo.runtimeconfig.json
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\bin\Debug\net7.0\controlDeflujo.dll
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\bin\Debug\net7.0\controlDeflujo.pdb
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\controlDeflujo.csproj.AssemblyReference.cache
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\controlDeflujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\controlDeflujo.AssemblyInfoInputs.cache
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\controlDeflujo.AssemblyInfo.cs
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\controlDeflujo.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\controlDeflujo.dll
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\refint\controlDeflujo.dll
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\controlDeflujo.pdb
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\controlDeflujo.genruntimeconfig.cache
+C:\Users\SAMUEL ROMERO\Documentos\Samuel Romero\Aprendizage\C#\Control_De_Flujo\controlDeflujo\obj\Debug\net7.0\ref\controlDeflujo.dll
