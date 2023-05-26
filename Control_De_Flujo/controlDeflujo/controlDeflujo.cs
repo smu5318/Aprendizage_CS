@@ -115,17 +115,17 @@ class Program
         Random numero=new Random();             //Estas dos lineas de codigo me permiten generar un numero aleatorio
         int numAleatorio=numero.Next(0,100);
 
-        int res1;
+        int res1=200;
         int numIntentos=0;
 
         Console.WriteLine("Bienvenido al juego");
         Console.WriteLine("Tienes que introdicir un numero del 0 al 100 hasta adivinar el correcto, el programa va a dar pistas");
         Console.WriteLine("Empezemos. Introduce un numero del 0 al 100:");
-        res1=int.Parse(Console.ReadLine());
-        numIntentos++;
 
         while(res1 != numAleatorio){
-            
+
+            res1=int.Parse(Console.ReadLine());
+
             if (res1<numAleatorio){
                 Console.WriteLine("El numero oculto es mayor");
             }
@@ -133,7 +133,7 @@ class Program
                 Console.WriteLine("El numero oculto es menor");
             }
             Console.WriteLine("Intentalo de nuevo:");
-            res1=int.Parse(Console.ReadLine());
+            
 
             numIntentos++;
         }
