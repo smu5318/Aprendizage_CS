@@ -119,7 +119,7 @@ class Program
         int numIntentos=0;
 
         Console.WriteLine("Bienvenido al juego");
-        Console.WriteLine("Tienes que introdicir un numero del 0 al 100 hasta adivinar el correcto, el programa va a dar pistas");
+        Console.WriteLine("Tienes que introducir un numero del 0 al 100 hasta adivinar el correcto, el programa va a dar pistas");
         Console.WriteLine("Empezemos. Introduce un numero del 0 al 100:");
 
         while(res1 != numAleatorio){

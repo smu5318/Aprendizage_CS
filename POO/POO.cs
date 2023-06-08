@@ -9,6 +9,10 @@ class Program
         circulo();
 
         carro();
+    
+        Match();
+
+        clasesAnonimas();
     }
 
     static void circulo(){
@@ -80,6 +84,45 @@ class Program
 
         Console.WriteLine("Gracias por usar el programa");
     }
+
+    static void Match(){
+        //El match es una clase que nos permite realizar operaciones matematicas complejas
+        double a;
+        double b;
+        
+
+        Console.WriteLine("Bienvenido al programa del teorema de pitagoras.");
+        Console.WriteLine("Ingrese el largo de la linea A");
+        a=double.Parse(Console.ReadLine());
+
+        Console.WriteLine("Inngrese el largo de la linea B");
+        b=double.Parse(Console.ReadLine());
+        
+        trianguloPitagoras hipotenusa=new trianguloPitagoras(a,b);
+
+        Console.WriteLine("EL resultado es:");
+        hipotenusa.GetHipotenusa();
+    }
+
+    static void clasesAnonimas(){
+
+        //Clases Anonimas:
+        var cuenta1=new {Nombre="Manuel", Edad=28};
+        //Dentro de las llaves colocamos las variables de la clase anonima, no puede contener metodos   
+
+        var cuenta2=new {Nombre="Ana", Edad=19}; 
+        //Al colocar las mismas variables, en el mismo orden, y con el mismo tipo de datos, es de la misma clase que la "cuenta1" 
+        
+        
+        Console.WriteLine(cuenta1.Nombre+" "+cuenta1.Edad);
+        Console.WriteLine(cuenta2.Nombre+" "+cuenta2.Edad);
+        //Asi es como se llama a una clase anonima
+
+        cuenta1=cuenta2;
+        //Al ser de la misma clase se puede hacer esto.
+
+        Console.WriteLine(cuenta1.Nombre+cuenta1.Edad);
+    }
 }
 
 class circulo
@@ -136,3 +179,15 @@ class carro
     
 }
     
+class trianguloPitagoras
+{
+    public trianguloPitagoras(double a,double b){
+        hipotenusa=Math.Sqrt(Math.Pow(a,2)+ Math.Pow(b,2));
+    } 
+
+    public void GetHipotenusa(){
+        Console.WriteLine(hipotenusa);
+    }
+
+    private double hipotenusa;         
+}
